@@ -15,8 +15,9 @@ Clone da interface do app da twitch.tv, utilizando  react native com expo, types
  - Typescript
 
 ## 🖥️ Preview
-
-![enter image description here](https://uploaddeimagens.com.br/images/002/857/243/full/screenshot.png?1598878004)
+<p align="center">
+<img src="https://uploaddeimagens.com.br/images/002/857/243/full/screenshot.png?1598878004" />
+ 
 ## 🕹️ Como executar o projeto
 
 ### Clone o repositório
